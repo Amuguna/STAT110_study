@@ -1,8 +1,7 @@
 # STAT110_study
 
-# 2022W-PRML-Study
 ### 개요
-CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
+STAT 110 스터디 입니다.
 
 ### 참여자
 * 장준영, 조현서, 오인제
